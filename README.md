@@ -2,7 +2,7 @@
 
 This script was generated to support the manuscript titled 'Cytokine signature clusters as a tool to compare changes associated with tobacco product use in upper and lower airway samples', published in the American Journal of Physiology-Lung Cellular and Molecular Physiology in 2022 (PMID: 35318855). 
 
-Payton AD, Perryman AN, Hoffman JR, Avula V, Wells H, Robinette C, Alexis NE, Jaspers I, Rager JE, Rebuli ME. Cytokine signature clusters as a tool to compare changes associated with tobacco product use in upper and lower airway samples. Am J Physiol Lung Cell Mol Physiol. 2022 May 1;322(5):L722-L736. doi: 10.1152/ajplung.00299.2021. Epub 2022 Mar 23. PubMed PMID: 35318855; PubMed Central PMCID: PMC9054348. 
+> Payton AD, Perryman AN, Hoffman JR, Avula V, Wells H, Robinette C, Alexis NE, Jaspers I, Rager JE, Rebuli ME. Cytokine signature clusters as a tool to compare changes associated with tobacco product use in upper and lower airway samples. Am J Physiol Lung Cell Mol Physiol. 2022 May 1;322(5):L722-L736. doi: 10.1152/ajplung.00299.2021. Epub 2022 Mar 23. PubMed PMID: 35318855; PubMed Central PMCID: PMC9054348. 
 
 ![image](https://user-images.githubusercontent.com/72747901/146385471-175e5c55-9954-4b28-b392-0f123a2a8b24.png)
 
